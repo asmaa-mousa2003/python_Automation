@@ -1,24 +1,63 @@
-📊 Python Sales Data Analysis Automation
-Transform your raw Excel sales data into clean insights, professional charts, and a ready-to-use PDF report in seconds.
+# 📊 Sales Data Analysis System
 
-What You Get:
+> Automated Excel data analysis with Python — transforms raw data into insights in seconds.
 
-Automatic data cleaning and validation
-Detailed analysis by Region, Product, and Time trends
-3 professional charts (Bar, Horizontal Bar, Line)
-Clean final Excel report
-Professional PDF report (includes summary, tables & all charts)
-Ready-to-run Python script
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-green)
+![Status](https://img.shields.io/badge/Status-Production-ready-success)
 
-From 2–3 hours manual work → only 5–10 seconds
-Why Choose Me:
+🎯 Results
 
-Clean, well-commented code
-Fast delivery (usually within 24 hours)
-Unlimited revisions
-Practical solution tailored to your business needs
+### Sales by Region
+![Region](https://raw.githubusercontent.com/asmaa-mousa2003/python_Automation/main/selenium/tastcase/reports/images/sales_by_region.png)
 
-Just send your Excel/CSV file and any specific requirements.
-I’ll deliver the script + Excel + Charts + PDF report quickly and professionally.
-Ready to save time and get clear, shareable insights?
-Message me now! 🚀
+### Sales Trend
+![Trend](https://raw.githubusercontent.com/asmaa-mousa2003/python_Automation/main/selenium/tastcase/reports/images/sales_trend.png)
+
+---
+
+## ⚡ Impact
+
+| Metric | Result |
+|--------|--------|
+| **Time Saved** | 2-3 hours → 10 seconds |
+| **Data Processed** | 100 rows, 14 columns |
+| **Accuracy** | 100% automated, zero errors |
+
+---
+
+## 🚀 Features
+
+✅ Auto-clean & validate Excel data  
+✅ Multi-dimensional analysis (Region, Product, Time)  
+✅ Professional charts (300 DPI)  
+✅ Excel & PDF reports  
+✅ Error handling & logging  
+
+---
+
+## 📦 Outputs
+
+| File | Link |
+|------|------|
+| 📊 Cleaned Data | [Download Excel](https://github.com/asmaa-mousa2003/python_Automation/blob/main/selenium/tastcase/cleaned_data.xlsx) |
+| 📄 PDF Report | [Download PDF](https://github.com/asmaa-mousa2003/python_Automation/blob/main/selenium/tastcase/reports/Sales_Report.pdf) |
+| 📈 Charts | `sales_by_region.png`, `sales_trend.png` |
+
+
+## 🛠️ Tech Stack
+
+**Python 3.13** | **Pandas** | **Matplotlib** | **OpenPyXL**
+
+---
+
+## 🏃 Quick Start
+
+```bash
+# Install
+pip install pandas openpyxl matplotlib
+
+# Run
+python main.py
+
+# Check outputs in selenium/tastcase/reports/
