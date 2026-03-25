@@ -4,12 +4,17 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-green)
-![Status](https://img.shields.io/badge/Status-Production-ready-success)
+![Status](https://img.shields.io/badge/Status-Production--ready-success)
 
-🎯 Results
+---
+
+## 🎯 Results
 
 ### Sales by Region
 ![Region](https://raw.githubusercontent.com/asmaa-mousa2003/python_Automation/main/selenium/tastcase/reports/images/sales_by_region.png)
+
+### Sales by Product
+![Product](https://raw.githubusercontent.com/asmaa-mousa2003/python_Automation/main/selenium/tastcase/reports/images/sales_by_product.png)
 
 ### Sales Trend
 ![Trend](https://raw.githubusercontent.com/asmaa-mousa2003/python_Automation/main/selenium/tastcase/reports/images/sales_trend.png)
@@ -22,17 +27,16 @@
 |--------|--------|
 | **Time Saved** | 2-3 hours → 10 seconds |
 | **Data Processed** | 100 rows, 14 columns |
-| **Accuracy** | 100% automated, zero errors |
+| **Accuracy** | 100% automated |
 
 ---
 
 ## 🚀 Features
 
 ✅ Auto-clean & validate Excel data  
-✅ Multi-dimensional analysis (Region, Product, Time)  
+✅ Multi-dimensional analysis  
 ✅ Professional charts (300 DPI)  
 ✅ Excel & PDF reports  
-✅ Error handling & logging  
 
 ---
 
@@ -40,10 +44,10 @@
 
 | File | Link |
 |------|------|
-| 📊 Cleaned Data | [Download Excel](https://github.com/asmaa-mousa2003/python_Automation/blob/main/selenium/tastcase/cleaned_data.xlsx) |
-| 📄 PDF Report | [Download PDF](https://github.com/asmaa-mousa2003/python_Automation/blob/main/selenium/tastcase/reports/Sales_Report.pdf) |
-| 📈 Charts | `sales_by_region.png`, `sales_trend.png` |
+| 📊 Cleaned Data | [Excel](https://github.com/asmaa-mousa2003/python_Automation/blob/main/selenium/tastcase/cleaned_data.xlsx) |
+| 📄 PDF Report | [PDF](https://github.com/asmaa-mousa2003/python_Automation/blob/main/selenium/tastcase/reports/Sales_Report.pdf) |
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -54,10 +58,5 @@
 ## 🏃 Quick Start
 
 ```bash
-# Install
 pip install pandas openpyxl matplotlib
-
-# Run
 python main.py
-
-# Check outputs in selenium/tastcase/reports/
